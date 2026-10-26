@@ -1,0 +1,9 @@
+:root { color-scheme: dark; font: 16px/1.6 Verdana, sans-serif; color: #fff6df; background: #302e2b; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 24px 16px; }
+main { max-width: 760px; margin: auto; border-top: 5px solid #88623e; padding-top: 24px; overflow-wrap: anywhere; }
+h1, h2 { color: #e3c58b; line-height: 1.3; }
+h1 { font-size: 1.8rem; } h2 { font-size: 1.2rem; margin-top: 32px; }
+a { color: #b8ee9e; } a:focus-visible { outline: 3px solid #e3c58b; outline-offset: 4px; }
+nav { display: flex; flex-wrap: wrap; gap: 16px; } li + li { margin-top: 12px; }
+footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid #88623e; color: #d2c8b5; }
